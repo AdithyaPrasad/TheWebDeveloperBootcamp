@@ -1,0 +1,18 @@
+h1{
+	color: rgba(0,200,0,.8);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+*/
+border: 2px solid rgb(255,100,80);
+}
+h4{
+	background: rgb(255,100,80);
+}
+
+body{
+	background: pink;
+/*	background: url(https://previews.123rf.com/images/ihorsvetiukha/ihorsvetiukha1804/ihorsvetiukha180400040/99992278-wood-grain-pattern-design.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
